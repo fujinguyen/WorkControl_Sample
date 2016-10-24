@@ -1,0 +1,3 @@
+﻿IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'{databaseOwner}[{objectQualifier}WorkControl_Sample_Items]') AND type in (N'U'))
+DROP TABLE {databaseOwner}[{objectQualifier}WorkControl_Sample_Items]
+GO

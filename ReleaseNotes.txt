@@ -1,0 +1,23 @@
+﻿<h3>WorkControl_Sample</h3>
+<p class="Contributor">
+	workcontrol.com <br />
+	<a href="mailto:modules@workcontrol.com">modules@workcontrol.com</a><br />
+	<a href=http://www.workcontrol.com/>http://www.workcontrol.com/</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the WorkControl_Sample</h3>
+	<p class="Owner">
+		<b>Version CHANGEME</b><br /><br />
+	</p>
+	<p>Description about version.</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>List</li>
+			<li>of</li>
+			<li>bug</li>
+			<li>fixes</li>
+	</ul>
+	
+</div>
